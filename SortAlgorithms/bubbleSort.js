@@ -1,3 +1,7 @@
+/*
+Programação Dinâmica: https://www.youtube.com/watch?v=GiNPe_678Ms&t=1s
+*/
+
 function BubbleSort(arr) {
   let totalLength = arr.length;
   for (let i = 0; i < totalLength; i++) {
